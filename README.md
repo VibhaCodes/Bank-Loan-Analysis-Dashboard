@@ -168,8 +168,8 @@ This project helps financial institutions:
 
 # **Screenshots**
 
-![Dashboard Screenshot](https://github.com/Janhavilele/Bank-Loan-Analysis-Dashboard/blob/main/Overview%20Page.PNG)
+![Dashboard Screenshot](https://github.com/VibhaCodes/Bank-Loan-Analysis-Dashboard/blob/0a54a0e294e657d1d1d571829a274c8d57d7d6fc/Overview%20Page.PNG)
 
-![Dashboard Screenshot](https://github.com/Janhavilele/Bank-Loan-Analysis-Dashboard/blob/main/Loan%20Risk%20Analysis.PNG)
+![Dashboard Screenshot](https://github.com/VibhaCodes/Bank-Loan-Analysis-Dashboard/blob/0a54a0e294e657d1d1d571829a274c8d57d7d6fc/Loan%20Risk%20Analysis.PNG)
 
-![Dashboard Screenshot](https://github.com/Janhavilele/Bank-Loan-Analysis-Dashboard/blob/main/Customer%20Insights.PNG)
+![Dashboard Screenshot](https://github.com/VibhaCodes/Bank-Loan-Analysis-Dashboard/blob/0a54a0e294e657d1d1d571829a274c8d57d7d6fc/Customer%20Insights.PNG)
